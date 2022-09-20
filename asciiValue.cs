@@ -26,8 +26,8 @@ namespace AsciiValue
             {
                 Console.WriteLine("Entered Character Is  Digit:");
             }
-            //else if (b == 0 && b <= 47 || b >= 58 && b <= 64 || b >= 91 && b <= 96 || b >= 123 && b <= 127)
-            else
+            else if (b >= 0 && b <= 47 || b >= 58 && b <= 64 || b >= 91 && b <= 96 || b >= 123 && b <= 127)
+            //else
             {
                 Console.WriteLine("Entered Character Is Special Symbols:");
             }

@@ -7,7 +7,7 @@ namespace Armstrong
         static void Main(string[] args)
         {
             int count = 0, number, k;
-            double result = 0, j, power, numberCheck;
+            double result = 0, power, numberCheck;
             string numberString;
             
             Console.WriteLine("Enter the number: ");
@@ -22,8 +22,7 @@ namespace Armstrong
             foreach (char i in numberString)
             {
                 k = Convert.ToInt32(i.ToString());
-                j = Convert.ToDouble(k);
-                result = result + Math.Pow(j, power);
+                result = result + Math.Pow(k, power);
             }
             
             if(numberCheck == result){
