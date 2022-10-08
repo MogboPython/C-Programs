@@ -1,1 +1,4 @@
 *.exe
+IntToString.cs
+sqlite3/
+.vs/

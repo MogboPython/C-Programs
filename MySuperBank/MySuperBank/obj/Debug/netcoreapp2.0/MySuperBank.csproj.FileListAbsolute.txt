@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.0\MySuperBank.deps.json
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.0\MySuperBank.runtimeconfig.json
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.0\MySuperBank.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.0\MySuperBank.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\bin\Debug\netcoreapp2.0\MySuperBank.pdb
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.0\MySuperBank.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.0\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.0\MySuperBank.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.0\MySuperBank.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.0\MySuperBank.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\MySuperBank\obj\Debug\netcoreapp2.0\MySuperBank.pdb

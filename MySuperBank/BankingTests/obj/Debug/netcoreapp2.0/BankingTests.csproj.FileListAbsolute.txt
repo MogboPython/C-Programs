@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\BankingTests.deps.json
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\BankingTests.runtimeconfig.json
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\BankingTests.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\BankingTests.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\BankingTests.pdb
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.pdb
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\MySuperBank.dll
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\bin\Debug\netcoreapp2.0\MySuperBank.pdb
+C:\Users\ADMIN\Desktop\C#\C# Lessons\MySuperBank\BankingTests\obj\Debug\netcoreapp2.0\BankingTests.csproj.CopyComplete
